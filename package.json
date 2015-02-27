@@ -2,7 +2,7 @@
   "name": "Rollie2",
   "version": "0.0.0",
   "private": true,
-  "author": "Steven Hirlston <steven.hirlston@mobiwm.com>",
+  "author": "Steven Hirlston <s.hirlston@gmail.com>",
   "description": "I deliver tha pugz",
   "dependencies": {
     "hubot-flowdock": ">= 0.0.1",
