@@ -1,8 +1,8 @@
 {
-  "name": "Rollie2",
+  "name": "Flobot",
   "version": "0.0.0",
   "private": true,
-  "author": "Steven Hirlston <s.hirlston@gmail.com>",
+  "author": "Mobi Flobot <mobi.flowbot@mobiwm.com>",
   "description": "I deliver tha pugz",
   "dependencies": {
     "hubot-flowdock": ">= 0.0.1",

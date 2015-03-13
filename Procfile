@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n Rollie2
+web: bin/hubot -a flowdock -n Flobot
