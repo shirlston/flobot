@@ -10,8 +10,8 @@
 
 module.exports = (robot) ->
 
-  # robot.hear /badger/i, (msg) ->
-  #   msg.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
+   robot.hear /no!/i, (msg) ->
+     msg.send "https://dl.dropboxusercontent.com/u/20449216/flobot/mitch-no.jpg"
   #
   # robot.respond /open the (.*) doors/i, (msg) ->
   #   doorType = msg.match[1]
