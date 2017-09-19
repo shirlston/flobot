@@ -11,7 +11,7 @@
 module.exports = (robot) ->
 
   robot.hear /^no!/i, (msg) ->
-    msg.send "https://dl.dropboxusercontent.com/u/20449216/flobot/mitch-no.jpg"
+    msg.send "https://user-images.githubusercontent.com/1896114/30611369-30f85a4c-9d4f-11e7-86fc-3a51621bf07b.png"
   #
   # robot.respond /open the (.*) doors/i, (msg) ->
   #   doorType = msg.match[1]
