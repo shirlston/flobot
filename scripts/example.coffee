@@ -12,6 +12,10 @@ module.exports = (robot) ->
 
   robot.hear /^no!/i, (msg) ->
     msg.send "https://user-images.githubusercontent.com/1896114/30611369-30f85a4c-9d4f-11e7-86fc-3a51621bf07b.png"
+
+  robot.hear /^good morning$/i, (msg) ->
+    msg.send "http://alexoverbeck.paperplane.io/images/sexy_beast.jpg"
+
   #
   # robot.respond /open the (.*) doors/i, (msg) ->
   #   doorType = msg.match[1]
