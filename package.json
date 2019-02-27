@@ -5,7 +5,7 @@
   "author": "Mobi Flobot <mobi.flowbot@mobiwm.com>",
   "description": "I deliver tha pugz",
   "dependencies": {
-    "hubot": ">= 2.19.0",
+    "hubot": "2.0.0 - 2.9999.9999",
     "hubot-diagnostics": "0.0.1",
     "hubot-flowdock": ">= 0.7.8",
     "hubot-google-images": ">= 0.1.5",
